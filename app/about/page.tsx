@@ -31,8 +31,8 @@ const AboutUs = () => {
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
           At our travel agency, we craft unforgettable journeys that connect you
           with new cultures, breathtaking landscapes, and unique experiences.
-          Whether you're seeking adventure, relaxation, or cultural exploration,
-          we’re here to help you discover the wonders of the world.
+          Whether you&rsquo;re seeking adventure, relaxation, or cultural exploration,
+          we&rsquo;re here to help you discover the wonders of the world.
         </p>
       </section>
 
@@ -153,7 +153,7 @@ const AboutUs = () => {
             Embark on Your Next Journey
           </h2>
           <p className="text-lg max-w-2xl mx-auto mb-6">
-            Whether you're a seasoned traveler or just getting started, we're
+            Whether you&rsquo;re a seasoned traveler or just getting started, we&rsquo;re
             here to help you explore the world in new and exciting ways. Ready
             to start your adventure?
           </p>

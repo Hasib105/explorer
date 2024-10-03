@@ -14,7 +14,7 @@ export default function HeroSection() {
         {/* Header Section */}
         <div className="space-y-4 mt-10">
           <h1 className="text-xl md:text-5xl font-bold text-gray-900">
-            Let's Enjoy Your Life, Explore the World
+            Let&apos;s Enjoy Your Life, Explore the World
           </h1>
           <button className="mt-4 px-5 py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition">
             Explore More
