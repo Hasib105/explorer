@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 import HeroSection from "../app/component/Hero";
 import FeatureSection from "./component/Feature";
@@ -54,8 +54,8 @@ export default function Home() {
                                 Get special offers and secret deals
                             </h4>
                             <p className="text-gray-600 max-w-xs text-lg mx-auto">
-                                Give us a call and we'll arrange everything for
-                                you.
+                                Give us a call and we&apos;ll arrange everything for
+                                you. We&apos;re always happy to help.
                             </p>
                         </div>
                     </div>
